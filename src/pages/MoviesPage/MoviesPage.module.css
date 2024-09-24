@@ -1,0 +1,19 @@
+.moviePage {
+    padding: 20px 10px;
+}
+
+.form {
+    display: flex;
+}
+
+.input {
+    padding: 3px;
+    font-size: 12px;
+    width: 300px;
+}
+
+.btn {
+    cursor: pointer;
+    padding: 0 10px;
+    border: 1px solid grey;
+}

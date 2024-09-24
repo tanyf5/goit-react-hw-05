@@ -1,0 +1,12 @@
+.list {
+    padding: 10px 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    gap: 3px;
+    list-style: disc;
+}
+
+.item a:visited {
+    color: darkorchid;
+}

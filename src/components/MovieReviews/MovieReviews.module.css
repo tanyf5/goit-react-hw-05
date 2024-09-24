@@ -1,0 +1,15 @@
+.review {
+    padding: 20px;
+}
+
+.list {
+    padding-left: 20px;
+    display: flex;
+    flex-direction: column;
+    list-style: disc;
+    gap: 20px;
+}
+
+.title {
+    margin-bottom: 15px;
+}
